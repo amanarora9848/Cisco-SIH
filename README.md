@@ -1,11 +1,11 @@
 # Security camera powered with Machine Learning for people detection for queue Data Analytics
 
 # Contributors
-Team behind the project
-[Shreya Gupta](http://github.com/shreyagupta30)
-[Pranavi Jain](https://github.com/pranavi18j)
-[Jakeerat Singh](http://github.com/jaskeerat789)
-[Aman Arora](https://github.com/amanarora9848)
+Team behind the project -
+- [Shreya Gupta](http://github.com/shreyagupta30)
+- [Pranavi Jain](https://github.com/pranavi18j)
+- [Jakeerat Singh](http://github.com/jaskeerat789)
+- [Aman Arora](https://github.com/amanarora9848)
 
 # Background
 Long lines at specific time ticketing windows and service counters at railway stations, bus stands, RTO offices, banks and more could lead to bad service experiences. On many occasions, lines are longer at a specific time of day but empty at other times. It would be very useful if real-time and historical queue length could be made available via a website or mobile app to the user and facility managers. This would, in the long term, help deliver better experiences and smarter cities.
